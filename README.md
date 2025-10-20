@@ -2,11 +2,11 @@
 
 ## Links to code notebooks:
 
-| Notebook        | Colab |
-|-----------------|-------|
-| `optimizer.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ethandavenport/Optimization-I-Proj1/blob/main/optimizer.ipynb) |
-| `monthly.ipynb`   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ethandavenport/Optimization-I-Proj1/blob/main/monthly.ipynb) |
-| `Project_1.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ethandavenport/Optimization-I-Proj1/blob/main/Project_1.ipynb) |
+| Notebook          | Colab |
+|-------------------|-------|
+| `linear.ipynb`    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ethandavenport/Optimization-I-Project-2/blob/main/linear.ipynb) |
+| `mip.ipynb`       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ethandavenport/Optimization-I-Project-2/blob/main/mip.ipynb) |
+| `Project_2.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ethandavenport/Optimization-I-Project-2/blob/main/Project_2.ipynb) |
 
 
 ## In colab, if you make changes to notebooks, use "save in github" at the top of the page to re-commit.
