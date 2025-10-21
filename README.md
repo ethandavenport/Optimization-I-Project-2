@@ -1,4 +1,4 @@
-# Optimization I Project 2: Marketing Campaigns
+# Optimization I Project 2: Marketing Campaign Decisions
 
 ## Links to code notebooks:
 
